@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 // import App from './samurai_road/App';
 // import App from './redux-Red-Group/components/App'
 // import state from './samurai_road/components/redux/state'
