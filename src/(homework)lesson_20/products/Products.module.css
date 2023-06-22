@@ -1,0 +1,43 @@
+.parentDiv {
+    padding-bottom: 100px;
+}
+
+
+.firstElem {
+    background-color: #F6E1C5;
+    padding: 30px;
+    border-radius: 10px;
+    z-index: 5;
+    margin-left: 900px;
+    margin-top: 130px;
+    width: 400px;
+    position: absolute;
+
+}
+
+
+.lastElement {
+    border-radius: 10px;
+    background-color: #F6E1C5;
+    width: 500px;
+    padding: 20px;
+    z-index: 5;
+    margin-top: -50px;
+    margin-left: 200px;
+    position: absolute;
+}
+
+
+.firstElem>h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.firstElem>h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.lastElement>span {
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

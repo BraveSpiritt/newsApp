@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.django {
+    display: flex;
+    width: 450px;
+    align-self: center;
+    flex-direction: column;
+    padding-top: 20px;
+
+}
+
+.djangoPaxan {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+
+}
+
+.merInput {
+    background-color: lightcyan;
+    height: 50px;
+    font-size: large;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+.merVernagir {
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.orish {
+    color: teal;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+.vernagrik {
+    color: teal;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+.bacatrel {
+    color: darkblue;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+.merIframe {
+    height: 300px;
+}
+
+.tyazadiv {
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-top: 40px;
+}
+
+.merDzivenHary {
+    display: flex;
+    flex-direction: row;
+    width: 80vw;
+    overflow: scroll;    
+    align-self: center;
+
+}

@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.prodParent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 150px;
+    height: 200px;
+    border: 0.2px solid #ccc;
+    border-radius: 0.5rem;
+}
+
+.prodChild1 {
+    position: relative;
+
+}
+
+.prodChild2 {
+    display: flex;
+    width: 150px;
+    height: 100px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.emptyImg {
+    width: 150px;
+    height: 100px;
+}
+.starImg {
+    width: 50px;
+}
+
+.soldBtn {
+    font-size: 12px;
+    width: 75px;
+    height: 20px;
+    padding: 5px, 5px, 5px, 5px;
+    background: white;
+    border: 0.5px solid black ;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+
+.soldBtn:hover {
+    background: #000000d3;
+    color: white;
+}
+
+
+
+.priceDiv {
+    display: flex;
+}
+
+.liner {
+    text-decoration: line-through;
+    font-size: 12px;
+    opacity: 0.7;
+    font-weight: normal !important;
+
+}
+
+p:nth-child(2) {
+    font-size: 12px;
+}
+
+p:nth-child(1) {
+    font-size: 13px;
+    font-weight: bold;
+}

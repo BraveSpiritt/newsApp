@@ -1,0 +1,49 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Apple Frangipan Tart",
+      "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple & Blackberry Crumble",
+      "image": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apam balik",
+      "image": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ayam Percik",
+      "image": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg"
+    },
+    {
+      "name": "Jengyalov Hac",
+      "image": "https://img-fotki.yandex.ru/get/9837/88494595.16/0_e3503_7fddde69_XL.jpg",
+      "id": 5
+    },
+    {
+      "name": "Tolma ",
+      "image": "https://images.kitchenstories.io/communityImages/9478b9ca14a6160a84d2e75f779ba6a8_01d8c797-1edb-4386-a03d-05a6d6d4c15f.jpg",
+      "id": 6
+    },
+    {
+      "name": "Chaxobili",
+      "image": "https://images.food52.com/7dvyspEkZNZi6X1Nr2K-mzRTfzs=/1200x900/65c1d3e8-3f44-4886-8d76-d9088265105b--Chahohbili.1.bmp",
+      "id": 7
+    },
+    {
+      "name": "Barbeque",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Barbeque-Kebab-600x600.jpg",
+      "id": 8
+    },
+    {
+      "name": "Pepperoni",
+      "image": "https://img.freepik.com/premium-photo/sliced-peperoni-pizza-with-salami_219193-6494.jpg?w=2000",
+      "id": 9
+    }
+  ]
+}

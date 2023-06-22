@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.django {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    padding-top: 20px;
+    align-items: center;
+
+}
+
+.merInput {
+    background-color: lightcyan;
+    height: 50px;
+    width: 450px;
+    font-size: large;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+.merVernagir {
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+

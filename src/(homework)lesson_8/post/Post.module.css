@@ -1,0 +1,15 @@
+.divik {
+    margin-top: 10px;
+    margin-left: 2%;
+    display: flex;
+    padding: 20px 20px;
+    border: 2px solid teal;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.kuchirDivik {
+    font-size: 20px;
+    color: teal;
+    margin-left: 100px;
+}

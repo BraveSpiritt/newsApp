@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.merInput {
+    background-color: lightcyan;
+    height: 50px;
+    width: 450px;
+    font-size: large;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+.title {
+    margin-top: 10px;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;    
+}
+.information {
+    color: darkblue;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;    
+}

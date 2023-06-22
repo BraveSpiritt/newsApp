@@ -1,0 +1,63 @@
+.havaiDiv {
+    padding-top: 500px;
+}
+
+.parentDiv {
+    width: 100%;
+    height: 1000px;
+    background-color: rgba(230, 167, 86, 0.9);
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.firstChild {
+    width: 60%;
+    height: 800px;
+    border: 7px solid #E6AD64;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.childStyle {
+    width: 100%;
+    height: 100%;
+    background-color: #F6E1C5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.childStyle>h6 {
+    padding-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.childStyle>h1 {
+    padding-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.childStyle>ul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style-type: none;
+    padding-top: 50px;
+}
+
+.childStyle>ul>li {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    padding-top: 20px;
+
+}
+
+.childStyle>p {
+    padding-top: 70px;
+}
+
+.childStyle>ul>hr {
+    color: #E6AD64;
+}

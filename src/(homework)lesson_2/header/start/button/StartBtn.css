@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainButton {
+    width: 70px;
+    height: 20px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 50rem;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.mainButton:hover {
+    background: #000;
+    color: white;
+
+}
+
+.headImg {
+    height: 10px;
+    width: 10px;
+}
+
+.headImg::before {
+    height: 10px;
+    width: 10px;
+    background: #fff;
+}
+
+.zero {
+    color: white;
+    font-size: 10px;
+    background-color: black;
+    width: 15px;
+    border-radius: 50rem;
+}

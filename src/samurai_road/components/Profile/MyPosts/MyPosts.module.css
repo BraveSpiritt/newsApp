@@ -1,0 +1,9 @@
+.content {
+    grid-area: c;
+    background: yellow;
+    padding: 10px ;
+}
+
+.posts { 
+    margin-top: 10px;
+}

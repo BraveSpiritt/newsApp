@@ -1,0 +1,14 @@
+
+.count {
+    width: 800px;
+    height: 200px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+
+.count > span { 
+    color: teal;
+}

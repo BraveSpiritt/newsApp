@@ -1,0 +1,20 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(33, 37, 41);
+    margin-top: 30px;
+}
+
+.pTag {
+    font-size: 10px;
+    color: white;
+}
