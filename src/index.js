@@ -6,7 +6,6 @@ import LatestNews from './redux-saga-webDev/pages/latest-news/latest-news';
 import PopularNews from './redux-saga-webDev/pages/popular-news/popular-news';
 import Home from './redux-saga-webDev/pages/home/home';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { createBrowserHistory } from 'history';
 import store from './redux-saga-webDev/redux/store'
 import App from './redux-saga-webDev/App'
 
