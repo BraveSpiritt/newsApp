@@ -7,12 +7,12 @@ body {
 body {
   font-family: "Montserrat", sans-serif;
   background: linear-gradient(to bottom, #59c173, #a17fe0, #5d26c1);
-  min-height: 100vh;
+  height: 100vh;
   color: #fff;
 }
 
 #root {
-  min-height: 100vh;
+  height: 100vh;
   display: grid;
   grid-auto-rows: auto 1fr auto;
 }
